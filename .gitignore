@@ -1,7 +1,4 @@
 __pycache__/
 .ipynb_checkpoints/
 .venv/
-data/raw/*.csv
-data/processed/*.csv
 *.pbix
-

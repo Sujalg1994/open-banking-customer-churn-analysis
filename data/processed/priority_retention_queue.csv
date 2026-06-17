@@ -1,0 +1,301 @@
+customer_id,customer_segment,region,tenure_months,product_count,digital_logins_30d,app_sessions_change_pct,salary_inflow,salary_inflow_change_pct,avg_balance,balance_change_pct,direct_debits,complaint_count_90d,overdraft_usage_rate,card_spend_30d,open_banking_connected,churn_probability_simulated,churn_flag,churn_risk_score,churn_risk_band,retention_action,value_at_risk
+C002432,Mass,Wales,112,1,9,-0.303,0,-0.244,304.75,-0.355,1,1,0.078,549.58,0,0.8176,0,81,High churn risk,Service recovery call,0.0
+C001335,SME owner,North West,62,1,12,-0.284,0,0.007,685.9,-0.332,2,2,0.235,84.62,0,0.8022,1,77,High churn risk,Service recovery call,685.9
+C001724,Student,Yorkshire,29,1,10,0.328,0,-0.361,926.22,-0.351,1,1,0.38,87.44,0,0.7595,1,73,High churn risk,Service recovery call,926.22
+C003176,Young professional,Scotland,81,1,2,0.002,0,-0.353,371.02,-0.425,2,0,0.098,234.22,1,0.7408,1,73,High churn risk,Salary switch or current account offer,371.02
+C000322,Mass,West Midlands,71,1,2,-0.069,0,-0.366,3124.24,0.11,1,1,0.085,205.38,0,0.7408,0,71,High churn risk,Service recovery call,0.0
+C002923,Student,South East,23,1,13,-0.086,0,0.016,482.98,-0.432,3,2,0.228,536.01,0,0.7408,1,69,High churn risk,Service recovery call,482.98
+C002213,Affluent,North West,60,1,17,0.163,0,-0.3,3790.23,-0.409,2,1,0.224,513.01,0,0.7109,1,67,High churn risk,Service recovery call,3790.23
+C000165,Mass,Yorkshire,85,1,9,-0.379,0,-0.209,983.2,-0.064,3,1,0.043,250.07,0,0.7006,1,67,High churn risk,Service recovery call,983.2
+C001613,Young professional,North West,108,1,5,-0.036,0,-0.321,623.55,-0.452,4,1,0.078,277.13,0,0.7109,1,67,High churn risk,Service recovery call,623.55
+C001764,Mass,Yorkshire,92,1,5,0.238,0,-0.429,500.68,-0.347,0,1,0.035,153.84,0,0.7109,1,67,High churn risk,Service recovery call,500.68
+C000614,Mass,West Midlands,42,1,15,-0.395,0,-0.26,491.95,-0.26,1,1,0.065,665.5,1,0.7006,1,67,High churn risk,Service recovery call,491.95
+C003035,Mass,South East,41,1,10,-0.237,0,-0.409,208.91,-0.369,4,1,0.305,152.74,0,0.7109,1,67,High churn risk,Service recovery call,208.91
+C002660,SME owner,North West,65,2,8,-0.078,0,-0.597,1027.52,-0.065,2,3,0.458,673.6,1,0.7311,0,62,High churn risk,Service recovery call,0.0
+C003018,Affluent,South East,23,1,7,-0.368,0,-0.469,2637.27,0.069,4,0,0.151,181.04,0,0.6106,1,61,High churn risk,Salary switch or current account offer,2637.27
+C000857,Affluent,West Midlands,15,1,3,-0.519,0,-0.423,2159.76,0.083,4,0,0.206,632.17,0,0.6106,1,61,High churn risk,Salary switch or current account offer,2159.76
+C002646,Mass,Wales,31,1,10,-0.402,0,-0.214,2046.31,0.189,1,0,0.02,403.08,0,0.6106,1,61,High churn risk,Salary switch or current account offer,2046.31
+C002399,Mass,London,24,1,22,-0.219,0,-0.639,2045.16,-0.38,2,0,0.094,380.84,0,0.6225,0,61,High churn risk,Salary switch or current account offer,0.0
+C000051,Student,South East,15,1,11,-0.378,0,-0.394,2025.48,-0.01,3,0,0.268,549.58,0,0.6106,0,61,High churn risk,Salary switch or current account offer,0.0
+C000760,Student,Scotland,25,1,13,0.074,0,-0.298,1980.05,-0.313,4,0,0.484,578.96,1,0.6225,1,61,High churn risk,Salary switch or current account offer,1980.05
+C003293,Affluent,North West,17,1,6,-0.385,0,-0.265,1557.47,-0.269,2,0,0.622,198.33,0,0.6106,0,61,High churn risk,Salary switch or current account offer,0.0
+C000080,Affluent,West Midlands,16,1,10,0.148,0,-0.323,1537.99,-0.493,0,0,0.214,288.88,0,0.6225,1,61,High churn risk,Salary switch or current account offer,1537.99
+C000590,Mass,West Midlands,6,1,12,-0.12,0,-0.408,560.64,-0.329,2,0,0.412,319.37,1,0.6225,0,61,High churn risk,Salary switch or current account offer,0.0
+C002817,Mass,South East,8,1,7,-0.035,0,-0.434,520.74,-0.396,2,0,0.115,72.08,0,0.6225,1,61,High churn risk,Salary switch or current account offer,520.74
+C001030,SME owner,South East,12,1,7,-0.487,0,-0.506,334.58,-0.235,1,0,0.293,1028.61,0,0.6106,0,61,High churn risk,Salary switch or current account offer,0.0
+C003173,Student,Yorkshire,22,1,12,-0.106,0,-0.353,298.97,-0.516,1,0,0.112,1118.83,0,0.6225,0,61,High churn risk,Salary switch or current account offer,0.0
+C000597,Mass,Yorkshire,48,3,16,-0.425,1,-0.368,1031.2,0.279,5,3,0.249,254.69,0,0.7211,1,60,High churn risk,Service recovery call,1031.2
+C002382,Student,London,32,2,9,-0.417,0,-0.297,925.73,-0.434,3,0,0.12,114.18,0,0.6341,1,60,High churn risk,Salary switch or current account offer,925.73
+C002493,Affluent,Yorkshire,14,1,13,-0.464,0,-0.176,1074.42,-0.31,2,0,0.413,125.89,1,0.5866,1,59,High churn risk,Salary switch or current account offer,1074.42
+C003289,Mass,Wales,100,1,2,0.263,0,-0.307,480.93,-0.05,4,0,0.146,61.23,0,0.5987,0,59,High churn risk,Salary switch or current account offer,0.0
+C001538,Mass,Scotland,36,1,10,0.473,1,-0.282,1315.24,-0.414,4,1,0.256,262.9,1,0.6225,1,57,High churn risk,Service recovery call,1315.24
+C001678,Mass,Wales,3,1,9,-0.322,1,-0.405,1256.04,0.638,6,1,0.374,515.43,0,0.6106,0,57,High churn risk,Service recovery call,0.0
+C003467,Young professional,Yorkshire,43,1,2,-0.386,0,-0.072,592.64,0.1,0,0,0.316,453.33,1,0.5622,1,57,High churn risk,Salary switch or current account offer,592.64
+C002343,Mass,London,30,1,7,-0.152,1,-0.263,228.51,-0.314,4,1,0.031,828.64,0,0.6225,0,57,High churn risk,Service recovery call,0.0
+C003207,Student,South East,96,1,16,-0.345,0,-0.413,4648.27,-0.273,3,0,0.157,281.76,0,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C000122,Mass,London,61,1,9,-0.253,0,-0.495,3582.87,0.144,3,0,0.306,257.23,0,0.5498,1,55,High churn risk,Salary switch or current account offer,3582.87
+C001231,Mass,Wales,105,1,9,-0.394,0,-0.242,1924.8,0.284,2,0,0.38,663.16,1,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C002035,Mass,North West,58,1,4,-0.443,0,-0.245,1750.05,-0.064,1,0,0.121,375.36,1,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C001896,Student,Wales,48,1,10,-0.362,0,-0.293,1438.86,0.698,4,0,0.07,94.42,1,0.5498,1,55,High churn risk,Salary switch or current account offer,1438.86
+C000936,SME owner,Scotland,103,1,8,-0.262,0,-0.467,1427.89,0.305,1,0,0.166,657.97,1,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C001655,Young professional,Scotland,48,1,9,-0.326,0,-0.388,1005.84,0.11,3,0,0.205,532.6,0,0.5498,1,55,High churn risk,Salary switch or current account offer,1005.84
+C002694,Affluent,London,83,1,10,-0.296,0,-0.418,872.26,-0.197,2,0,0.517,68.54,0,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C001083,Mass,Scotland,115,1,9,0.237,0,-0.254,637.22,-0.374,1,0,0.056,254.73,1,0.5622,1,55,High churn risk,Salary switch or current account offer,637.22
+C001043,Affluent,Scotland,104,1,11,0.338,0,-0.298,565.5,-0.324,2,0,0.027,305.31,0,0.5622,1,55,High churn risk,Salary switch or current account offer,565.5
+C001038,SME owner,Wales,113,1,9,-0.018,0,-0.224,443.63,-0.516,3,0,0.048,145.97,0,0.5622,0,55,High churn risk,Salary switch or current account offer,0.0
+C000986,Mass,London,49,1,11,-0.326,0,-0.219,327.22,-0.076,1,0,0.328,167.37,1,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C000674,Mass,Yorkshire,90,1,3,-0.375,0,-0.306,252.62,0.002,1,0,0.153,682.13,1,0.5498,1,55,High churn risk,Salary switch or current account offer,252.62
+C002380,Mass,West Midlands,46,1,13,-0.394,0,-0.453,235.4,0.049,3,0,0.074,253.23,1,0.5498,0,55,High churn risk,Salary switch or current account offer,0.0
+C003487,Student,West Midlands,61,1,15,0.05,0,-0.303,194.51,-0.313,1,0,0.342,567.68,1,0.5622,0,55,High churn risk,Salary switch or current account offer,0.0
+C002437,Young professional,West Midlands,116,1,4,-0.283,0,-0.487,165.74,0.265,4,0,0.037,487.75,0,0.5498,1,55,High churn risk,Salary switch or current account offer,165.74
+C000455,Young professional,Yorkshire,91,3,7,-0.35,0,-0.617,5776.67,-0.473,2,0,0.121,370.75,1,0.5744,0,54,High churn risk,Salary switch or current account offer,0.0
+C001815,Affluent,South East,84,3,9,-0.521,0,-0.381,2027.25,-0.45,3,0,0.186,190.58,0,0.5744,1,54,High churn risk,Salary switch or current account offer,2027.25
+C002993,Mass,Wales,100,2,13,-0.414,0,-0.316,610.1,-0.497,3,0,0.501,287.09,0,0.5744,0,54,High churn risk,Salary switch or current account offer,0.0
+C002846,Mass,West Midlands,46,3,10,-0.367,0,-0.615,205.91,-0.318,1,0,0.111,484.32,1,0.5744,1,54,High churn risk,Salary switch or current account offer,205.91
+C001598,Affluent,West Midlands,34,1,13,-0.006,1,0.07,1828.94,-0.388,2,2,0.524,387.32,0,0.5987,0,53,High churn risk,Service recovery call,0.0
+C002697,Young professional,Yorkshire,79,1,2,-0.206,1,-0.175,1277.86,-0.305,5,1,0.051,204.45,0,0.5744,1,53,High churn risk,Service recovery call,1277.86
+C002003,Mass,West Midlands,57,1,12,0.052,0,-0.237,1202.73,-0.103,2,1,0.289,741.13,0,0.5622,0,53,High churn risk,Service recovery call,0.0
+C003006,Mass,South East,99,1,9,0.01,0,-0.444,1048.6,-0.104,2,1,0.026,274.95,1,0.5622,0,53,High churn risk,Service recovery call,0.0
+C002888,Mass,South East,118,1,6,-0.331,1,-0.226,925.13,-0.556,0,0,0.134,501.86,0,0.5498,1,53,High churn risk,Salary switch or current account offer,925.13
+C001171,Mass,Yorkshire,64,1,4,0.395,0,-0.297,746.69,0.458,1,1,0.619,375.58,0,0.5622,1,53,High churn risk,Service recovery call,746.69
+C002782,Mass,London,38,1,7,-0.255,0,-0.06,619.7,-0.355,3,0,0.409,442.51,0,0.525,1,53,High churn risk,Salary switch or current account offer,619.7
+C001829,Mass,Scotland,96,1,11,0.137,0,-0.255,389.83,0.39,2,1,0.215,525.29,1,0.5622,0,53,High churn risk,Service recovery call,0.0
+C003015,Student,South East,53,1,26,-0.123,0,-0.301,360.25,-0.28,3,1,0.074,174.25,0,0.5622,0,53,High churn risk,Service recovery call,0.0
+C001994,Affluent,Wales,51,1,13,-0.023,0,-0.324,273.18,-0.073,1,1,0.193,131.77,0,0.5622,1,53,High churn risk,Service recovery call,273.18
+C002924,Mass,Wales,79,1,8,-0.34,0,-0.163,199.08,-0.386,3,0,0.056,286.78,0,0.525,1,53,High churn risk,Salary switch or current account offer,199.08
+C002872,Mass,West Midlands,112,1,5,-0.279,0,-0.148,54.47,-0.372,2,0,0.081,159.35,1,0.525,0,53,High churn risk,Salary switch or current account offer,0.0
+C001537,Mass,North West,107,3,12,0.092,0,-0.305,3179.96,-0.313,2,1,0.269,573.6,1,0.5866,0,52,High churn risk,Service recovery call,0.0
+C002901,Affluent,Scotland,109,3,14,-0.561,0,-0.372,2790.1,-0.133,4,1,0.327,337.08,1,0.5744,1,52,High churn risk,Service recovery call,2790.1
+C001262,Mass,Yorkshire,44,2,8,-0.366,0,-0.332,1849.56,-0.032,1,1,0.112,133.85,0,0.5744,1,52,High churn risk,Service recovery call,1849.56
+C000869,Mass,London,47,2,4,-0.26,0,-0.318,1629.46,-0.268,2,1,0.117,227.95,0,0.5744,0,52,High churn risk,Service recovery call,0.0
+C000070,SME owner,London,79,3,8,-0.097,0,-0.519,517.07,-0.422,2,1,0.218,321.04,1,0.5866,1,52,High churn risk,Service recovery call,517.07
+C002320,Mass,West Midlands,66,2,8,-0.137,0,-0.462,516.8,-0.379,2,1,0.128,348.11,0,0.5866,1,52,High churn risk,Service recovery call,516.8
+C002932,Young professional,Yorkshire,58,3,8,-0.31,0,-0.21,298.95,0.359,0,1,0.079,593.92,1,0.5744,0,52,High churn risk,Service recovery call,0.0
+C001883,Mass,Yorkshire,47,1,13,-0.297,1,-0.416,3468.28,-0.128,4,1,0.083,359.18,1,0.5498,0,51,High churn risk,Service recovery call,0.0
+C001543,Student,Wales,77,1,8,0.298,1,-0.223,976.74,-0.354,7,1,0.149,828.33,1,0.5622,1,51,High churn risk,Service recovery call,976.74
+C001985,Mass,South East,46,1,11,-0.202,0,-0.07,648.39,-0.487,1,1,0.102,168.25,0,0.5374,0,51,High churn risk,Service recovery call,0.0
+C003328,Mass,South East,119,1,13,-0.539,1,-0.32,449.13,-0.124,3,1,0.065,426.01,1,0.5498,0,51,High churn risk,Service recovery call,0.0
+C000500,Mass,Scotland,120,1,7,-0.56,1,-0.261,283.3,0.138,6,1,0.343,132.75,0,0.5498,1,51,High churn risk,Service recovery call,283.3
+C002172,Student,Yorkshire,4,1,18,-0.109,1,0.063,207.43,0.091,7,3,0.317,93.05,0,0.5987,1,51,High churn risk,Service recovery call,207.43
+C000043,Young professional,South East,57,2,9,-0.325,1,-0.302,1020.7,-0.558,6,1,0.033,315.06,0,0.5744,1,50,High churn risk,Service recovery call,1020.7
+C001188,Mass,London,73,3,6,0.12,0,-0.206,838.65,-0.369,2,0,0.671,111.95,1,0.5374,0,50,High churn risk,Salary switch or current account offer,0.0
+C003423,Young professional,Yorkshire,32,3,1,0.081,0,-0.203,754.18,0.21,0,0,0.218,144.52,0,0.525,1,50,High churn risk,Salary switch or current account offer,754.18
+C002419,Young professional,Yorkshire,15,2,8,0.029,1,-0.076,291.43,-0.324,10,3,0.141,41.95,0,0.6225,0,50,High churn risk,Service recovery call,0.0
+C000131,Mass,Wales,44,1,9,-0.188,1,-0.305,292.68,0.087,4,2,0.056,349.4,0,0.5622,0,49,High churn risk,Service recovery call,0.0
+C000876,Affluent,West Midlands,10,2,2,0.546,0,0.039,4294.12,-0.421,3,0,0.24,334.31,0,0.5,1,48,High churn risk,Salary switch or current account offer,4294.12
+C003081,Mass,Scotland,42,2,12,-0.43,0,-0.023,67.42,-0.101,0,2,0.034,762.71,1,0.5498,0,48,High churn risk,Service recovery call,0.0
+C000365,Mass,West Midlands,16,1,12,-0.004,0,-0.354,3498.54,-0.269,1,0,0.158,149.55,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C002513,Affluent,Wales,32,1,6,0.108,0,-0.22,3181.95,-0.143,1,0,0.207,774.82,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001153,Student,Scotland,26,1,18,0.076,0,-0.213,3099.35,0.353,3,0,0.269,537.72,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001026,Mass,North West,32,1,6,-0.067,0,-0.327,2395.92,0.001,1,0,0.202,361.84,1,0.4626,1,47,High churn risk,Salary switch or current account offer,2395.92
+C003455,Mass,Yorkshire,20,1,4,0.224,0,-0.529,2360.76,0.049,2,0,0.233,179.55,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000174,Mass,West Midlands,8,1,12,0.031,0,-0.21,1665.78,0.216,3,0,0.262,175.35,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000665,Mass,West Midlands,4,1,7,0.001,0,-0.349,1659.47,0.059,0,0,0.06,173.95,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000188,Mass,London,12,1,10,0.094,0,-0.482,1630.03,0.194,1,0,0.187,175.08,0,0.4626,1,47,High churn risk,Salary switch or current account offer,1630.03
+C002224,Mass,Scotland,34,1,11,0.077,0,-0.347,1573.15,0.439,2,0,0.167,183.62,0,0.4626,1,47,High churn risk,Salary switch or current account offer,1573.15
+C000006,Mass,London,2,1,11,-0.135,0,-0.269,1457.81,0.407,0,0,0.42,395.0,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C002559,Mass,Yorkshire,33,1,11,0.122,0,-0.225,1432.71,-0.26,2,0,0.243,265.37,1,0.4626,1,47,High churn risk,Salary switch or current account offer,1432.71
+C003387,Young professional,Yorkshire,36,1,7,0.145,0,-0.519,1056.61,0.028,1,0,0.306,150.14,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C002709,Affluent,West Midlands,2,1,10,0.187,0,-0.294,926.91,0.001,5,0,0.163,98.97,0,0.4626,1,47,High churn risk,Salary switch or current account offer,926.91
+C002216,Young professional,Yorkshire,34,1,11,0.201,0,-0.344,926.8,-0.186,1,0,0.221,105.02,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001136,Young professional,Scotland,24,1,10,0.209,0,-0.347,915.06,-0.098,2,0,0.313,370.08,1,0.4626,1,47,High churn risk,Salary switch or current account offer,915.06
+C000057,SME owner,Scotland,22,1,7,-0.066,0,-0.329,789.54,0.195,1,0,0.262,670.74,1,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C003033,Young professional,London,31,1,9,0.055,0,-0.225,743.81,0.181,1,0,0.38,608.68,1,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001103,Mass,Yorkshire,32,1,9,0.054,0,-0.209,685.61,0.015,3,0,0.202,225.82,0,0.4626,1,47,High churn risk,Salary switch or current account offer,685.61
+C002815,Student,London,36,1,18,-0.115,0,-0.364,659.65,-0.268,4,0,0.374,541.15,0,0.4626,1,47,High churn risk,Salary switch or current account offer,659.65
+C001690,Mass,West Midlands,5,1,11,0.261,0,-0.421,658.55,-0.13,4,0,0.062,237.08,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C002637,Young professional,North West,95,1,4,-0.152,0,0.056,657.08,-0.018,2,1,0.67,416.36,0,0.4875,0,47,High churn risk,Service recovery call,0.0
+C001444,Mass,Scotland,21,1,10,-0.063,0,-0.377,630.75,0.053,2,0,0.105,178.0,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000373,Young professional,South East,10,1,11,0.287,0,-0.348,627.33,-0.057,2,0,0.045,881.58,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C002909,Mass,North West,21,1,10,0.1,0,-0.295,526.97,-0.024,4,0,0.22,86.94,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001044,Student,Scotland,3,1,14,-0.164,0,-0.362,496.2,-0.216,1,0,0.287,232.79,1,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001534,SME owner,West Midlands,34,1,12,0.091,0,-0.211,494.64,0.039,1,0,0.009,156.39,0,0.4626,1,47,High churn risk,Salary switch or current account offer,494.64
+C002436,SME owner,Wales,24,1,15,0.18,0,-0.623,430.79,-0.182,3,0,0.11,514.87,1,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000671,Mass,London,22,1,15,0.199,0,-0.24,381.35,0.137,2,0,0.008,304.37,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000615,Young professional,London,15,1,7,0.013,0,-0.205,326.93,0.273,3,0,0.098,160.27,0,0.4626,1,47,High churn risk,Salary switch or current account offer,326.93
+C002683,Mass,Yorkshire,31,1,12,0.028,0,-0.306,303.99,0.169,4,0,0.25,443.1,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C000532,Student,Scotland,36,1,13,-0.016,0,-0.365,263.36,0.003,1,0,0.285,227.86,1,0.4626,1,47,High churn risk,Salary switch or current account offer,263.36
+C001660,Mass,London,4,1,10,-0.218,0,-0.27,252.61,0.455,1,0,0.167,2068.95,1,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C002075,Young professional,North West,34,1,13,0.044,0,-0.21,204.94,0.079,1,0,0.373,169.57,0,0.4626,1,47,High churn risk,Salary switch or current account offer,204.94
+C003458,Mass,London,7,1,11,0.055,0,-0.252,128.48,0.086,1,0,0.244,1824.35,0,0.4626,0,47,High churn risk,Salary switch or current account offer,0.0
+C001352,Affluent,West Midlands,15,3,11,-0.252,0,-0.22,4521.48,0.106,1,0,0.09,624.03,0,0.475,1,46,High churn risk,Salary switch or current account offer,4521.48
+C002023,SME owner,North West,16,2,9,0.083,0,-0.35,2324.07,-0.443,0,0,0.14,689.11,0,0.4875,1,46,High churn risk,Salary switch or current account offer,2324.07
+C001200,Mass,North West,27,3,6,-0.135,0,-0.381,1932.37,-0.514,3,0,0.158,776.26,0,0.4875,1,46,High churn risk,Salary switch or current account offer,1932.37
+C000941,Mass,North West,16,3,8,0.109,0,-0.302,1352.83,-0.383,1,0,0.035,654.35,1,0.4875,0,46,High churn risk,Salary switch or current account offer,0.0
+C002755,Mass,Yorkshire,22,3,7,-0.288,0,-0.412,1352.49,0.162,3,0,0.525,199.33,0,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C000033,Mass,Wales,6,3,6,-0.094,0,-0.339,1073.43,-0.403,6,0,0.089,244.06,1,0.4875,0,46,High churn risk,Salary switch or current account offer,0.0
+C000497,Mass,Scotland,32,3,9,-0.546,0,-0.382,938.24,0.256,0,0,0.202,768.13,0,0.475,1,46,High churn risk,Salary switch or current account offer,938.24
+C001665,Mass,Scotland,3,3,7,-0.398,0,-0.4,879.74,0.375,2,0,0.213,536.28,0,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C001916,Young professional,South East,26,2,9,-0.397,0,-0.258,833.01,-0.002,2,0,0.268,1310.9,1,0.475,1,46,High churn risk,Salary switch or current account offer,833.01
+C000093,Affluent,North West,18,2,15,0.145,0,-0.291,662.32,-0.326,6,0,0.284,257.69,1,0.4875,0,46,High churn risk,Salary switch or current account offer,0.0
+C003253,Affluent,Yorkshire,35,2,7,-0.356,0,-0.206,632.45,-0.291,2,0,0.159,231.86,0,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C002720,Mass,South East,18,3,7,-0.479,0,-0.416,579.68,0.187,4,0,0.049,335.39,1,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C002323,Mass,South East,11,2,9,-0.12,0,-0.208,470.06,-0.383,3,0,0.145,185.29,0,0.4875,1,46,High churn risk,Salary switch or current account offer,470.06
+C001034,Mass,Wales,88,4,4,-0.535,0,-0.219,430.57,-0.302,3,0,0.002,240.23,0,0.4875,1,46,High churn risk,Salary switch or current account offer,430.57
+C000784,Young professional,South East,22,2,9,-0.02,0,-0.34,408.06,-0.386,2,0,0.238,464.28,0,0.4875,0,46,High churn risk,Salary switch or current account offer,0.0
+C001879,Young professional,West Midlands,13,2,8,-0.389,0,-0.221,304.93,0.038,2,0,0.192,124.77,0,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C001571,Mass,Wales,3,3,13,-0.354,0,-0.33,269.98,-0.125,3,0,0.166,587.45,0,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C002175,Student,London,8,2,13,-0.251,0,-0.315,262.56,-0.06,2,0,0.179,678.32,0,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C003014,Mass,Scotland,24,3,7,-0.331,0,-0.327,214.55,0.062,1,0,0.029,576.28,1,0.475,0,46,High churn risk,Salary switch or current account offer,0.0
+C000627,Mass,Scotland,36,1,14,-0.309,0,-0.118,3120.33,-0.141,1,0,0.43,171.06,0,0.4256,1,45,High churn risk,Salary switch or current account offer,3120.33
+C002413,Affluent,North West,35,1,4,-0.265,1,-0.417,2603.23,-0.236,6,0,0.296,582.13,1,0.4502,1,45,High churn risk,Salary switch or current account offer,2603.23
+C000437,Mass,West Midlands,35,1,4,-0.376,1,-0.242,2509.91,0.202,9,0,0.445,308.2,1,0.4502,0,45,High churn risk,Salary switch or current account offer,0.0
+C002819,Affluent,West Midlands,29,1,12,0.109,1,-0.596,2056.62,-0.381,6,0,0.426,838.93,0,0.4626,0,45,High churn risk,Salary switch or current account offer,0.0
+C002335,Mass,North West,25,1,2,0.096,1,0.018,1843.47,-0.153,2,1,0.038,205.21,1,0.475,0,45,High churn risk,Service recovery call,0.0
+C003360,Affluent,South East,10,1,4,-0.308,1,-0.358,1661.89,-0.073,4,0,0.083,417.43,1,0.4502,0,45,High churn risk,Salary switch or current account offer,0.0
+C002183,Mass,West Midlands,8,1,8,-0.214,1,-0.285,1532.43,-0.419,4,0,0.132,74.35,1,0.4626,0,45,High churn risk,Salary switch or current account offer,0.0
+C002273,Mass,South East,29,1,13,0.061,0,-0.013,1349.09,-0.303,2,0,0.16,956.05,0,0.4378,1,45,High churn risk,Salary switch or current account offer,1349.09
+C000434,SME owner,Yorkshire,2,1,12,0.333,1,-0.234,1065.76,-0.426,7,0,0.384,376.76,1,0.4626,1,45,High churn risk,Salary switch or current account offer,1065.76
+C001295,Young professional,West Midlands,15,1,13,-0.108,0,-0.194,1035.57,-0.776,2,0,0.387,444.05,0,0.4378,0,45,High churn risk,Salary switch or current account offer,0.0
+C000705,Young professional,North West,29,1,8,-0.349,0,-0.021,958.96,-0.127,0,0,0.134,207.7,0,0.4256,0,45,High churn risk,Salary switch or current account offer,0.0
+C003273,Young professional,South East,31,1,7,-0.463,0,-0.176,708.82,0.134,0,0,0.236,353.51,0,0.4256,0,45,High churn risk,Salary switch or current account offer,0.0
+C002242,Student,Scotland,17,1,13,-0.273,0,-0.18,669.38,0.212,1,0,0.552,426.31,0,0.4256,1,45,High churn risk,Salary switch or current account offer,669.38
+C002312,Mass,South East,13,1,8,0.138,1,-0.281,631.59,-0.332,6,0,0.195,358.06,0,0.4626,1,45,High churn risk,Salary switch or current account offer,631.59
+C001143,Mass,South East,4,1,6,-0.374,1,-0.259,568.69,0.176,3,0,0.047,59.78,0,0.4502,0,45,High churn risk,Salary switch or current account offer,0.0
+C003050,Student,Scotland,30,1,12,0.424,0,0.08,395.76,-0.336,2,0,0.497,252.5,0,0.4378,0,45,High churn risk,Salary switch or current account offer,0.0
+C001691,Student,North West,21,1,25,-0.364,0,-0.195,326.56,0.192,1,0,0.192,223.33,0,0.4256,0,45,High churn risk,Salary switch or current account offer,0.0
+C002640,SME owner,Wales,17,1,10,-0.343,0,-0.171,315.7,0.049,1,0,0.461,717.34,0,0.4256,0,45,High churn risk,Salary switch or current account offer,0.0
+C002135,Young professional,South East,26,1,8,0.159,0,0.321,297.05,-0.903,2,0,0.106,223.75,0,0.4378,0,45,High churn risk,Salary switch or current account offer,0.0
+C000342,Mass,North West,33,1,14,-0.473,1,-0.277,289.23,0.267,9,0,0.402,242.57,0,0.4502,0,45,High churn risk,Salary switch or current account offer,0.0
+C003453,Young professional,Wales,33,2,13,0.129,0,-0.239,5730.57,0.215,1,1,0.138,675.67,0,0.4875,0,44,Medium churn risk,Service recovery call,0.0
+C001268,Affluent,South East,20,2,6,-0.235,0,-0.366,2767.82,0.322,4,1,0.556,2668.77,1,0.4875,1,44,Medium churn risk,Service recovery call,2767.82
+C000471,Mass,West Midlands,9,3,13,-0.359,0,-0.117,2392.37,-0.327,2,0,0.173,170.13,1,0.4502,1,44,Medium churn risk,Salary switch or current account offer,2392.37
+C003092,Affluent,South East,33,2,8,-0.577,1,-0.491,2080.17,-0.56,4,0,0.202,54.54,0,0.475,1,44,Medium churn risk,Salary switch or current account offer,2080.17
+C002297,Affluent,Wales,29,3,7,-0.21,0,-0.411,1180.19,0.089,1,1,0.211,925.21,0,0.4875,0,44,Medium churn risk,Service recovery call,0.0
+C000555,Mass,South East,42,2,2,-0.082,0,-0.426,962.15,-0.153,3,0,0.285,320.78,1,0.4626,0,44,Medium churn risk,Salary switch or current account offer,0.0
+C003005,Mass,Wales,34,2,9,0.175,0,-0.422,736.99,-0.257,4,1,0.139,407.86,1,0.4875,0,44,Medium churn risk,Service recovery call,0.0
+C000812,Mass,Yorkshire,70,4,8,0.129,0,-0.325,500.99,-0.63,3,1,0.2,168.94,1,0.5,0,44,Medium churn risk,Service recovery call,0.0
+C001366,Student,Wales,7,2,17,-0.347,0,0.064,462.9,-0.345,4,0,0.173,132.04,0,0.4502,0,44,Medium churn risk,Salary switch or current account offer,0.0
+C001977,Mass,Wales,32,2,7,-0.208,0,-0.237,453.17,-0.192,0,1,0.022,965.39,1,0.4875,0,44,Medium churn risk,Service recovery call,0.0
+C002275,Young professional,North West,26,2,5,-0.356,1,-0.29,407.0,-0.311,6,0,0.082,90.72,1,0.475,0,44,Medium churn risk,Salary switch or current account offer,0.0
+C001254,SME owner,Yorkshire,23,3,6,0.374,0,-0.311,331.12,-0.032,0,1,0.259,360.4,0,0.4875,1,44,Medium churn risk,Service recovery call,331.12
+C000689,Young professional,Scotland,25,2,9,-0.369,1,-0.39,268.84,-0.328,4,0,0.465,142.22,0,0.475,0,44,Medium churn risk,Salary switch or current account offer,0.0
+C002489,Mass,Scotland,15,2,10,0.039,0,-0.586,250.01,0.54,2,1,0.129,205.32,0,0.4875,0,44,Medium churn risk,Service recovery call,0.0
+C000951,Mass,Yorkshire,14,2,6,0.201,0,-0.263,110.62,0.053,4,1,0.12,96.16,0,0.4875,1,44,Medium churn risk,Service recovery call,110.62
+C000015,Mass,North West,32,2,13,-0.161,0,-0.623,75.21,0.266,4,1,0.415,154.25,0,0.4875,0,44,Medium churn risk,Service recovery call,0.0
+C002904,Mass,Wales,33,1,6,-0.275,1,0.254,7196.41,-0.348,3,0,0.311,261.81,0,0.4256,0,43,Medium churn risk,Product deepening offer,0.0
+C001834,Affluent,Wales,16,1,7,0.237,0,-0.069,2613.23,-0.266,4,1,0.021,300.11,0,0.4378,0,43,Medium churn risk,Service recovery call,0.0
+C002620,Mass,West Midlands,4,1,11,-0.219,0,-0.187,1375.53,0.284,2,1,0.048,190.94,0,0.4378,0,43,Medium churn risk,Service recovery call,0.0
+C000358,Affluent,South East,24,1,10,-0.006,0,-0.159,1075.26,-0.13,4,1,0.094,310.94,0,0.4378,1,43,Medium churn risk,Service recovery call,1075.26
+C003473,Young professional,Wales,5,1,6,-0.484,1,0.129,1056.4,-0.647,6,0,0.109,472.22,1,0.4256,0,43,Medium churn risk,Product deepening offer,0.0
+C002237,Student,Yorkshire,8,1,16,-0.242,1,-0.342,965.12,0.217,3,1,0.061,204.91,0,0.4626,0,43,Medium churn risk,Service recovery call,0.0
+C001011,Mass,Scotland,12,1,7,-0.257,1,-0.03,959.33,-0.301,2,0,0.237,149.76,0,0.4256,0,43,Medium churn risk,Product deepening offer,0.0
+C000353,Young professional,West Midlands,11,1,9,0.107,1,-0.308,747.03,0.037,7,1,0.344,999.89,0,0.4626,1,43,Medium churn risk,Service recovery call,747.03
+C000468,Mass,Wales,17,1,12,-0.075,0,0.208,745.12,0.015,0,1,0.265,254.95,0,0.4378,0,43,Medium churn risk,Service recovery call,0.0
+C000539,Mass,Scotland,7,1,13,-0.292,1,0.132,508.48,-0.575,6,0,0.051,423.97,0,0.4256,0,43,Medium churn risk,Product deepening offer,0.0
+C002019,Mass,Yorkshire,30,1,14,-0.482,1,-0.083,425.85,-0.318,5,0,0.032,349.08,1,0.4256,1,43,Medium churn risk,Product deepening offer,425.85
+C002179,Mass,Yorkshire,9,1,5,0.083,0,-0.031,404.49,0.547,1,1,0.021,211.91,0,0.4378,0,43,Medium churn risk,Service recovery call,0.0
+C000612,Affluent,West Midlands,13,1,9,-0.03,0,0.122,361.18,0.174,2,1,0.052,151.1,0,0.4378,1,43,Medium churn risk,Service recovery call,361.18
+C002112,Young professional,Scotland,14,1,5,-0.308,1,0.241,351.64,-0.359,5,0,0.247,520.86,1,0.4256,1,43,Medium churn risk,Product deepening offer,351.64
+C000387,Mass,Scotland,19,1,5,0.09,0,-0.078,320.83,-0.116,0,1,0.386,103.34,0,0.4378,0,43,Medium churn risk,Service recovery call,0.0
+C002905,Mass,Yorkshire,19,3,10,-0.565,1,-0.426,1244.45,0.314,2,1,0.355,632.03,0,0.475,1,42,Medium churn risk,Service recovery call,1244.45
+C000266,Mass,West Midlands,69,5,14,-0.414,0,-0.176,760.68,-0.359,2,1,0.081,226.2,1,0.4626,1,42,Medium churn risk,Service recovery call,760.68
+C001065,Mass,West Midlands,32,2,8,-0.456,0,-0.119,517.89,-0.012,0,1,0.19,112.0,0,0.4502,1,42,Medium churn risk,Service recovery call,517.89
+C001224,Affluent,West Midlands,80,1,7,0.108,0,-0.213,6354.32,-0.215,2,0,0.12,1718.22,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,6354.32
+C003186,Affluent,West Midlands,35,1,9,0.148,1,0.008,5349.39,-0.609,2,1,0.286,589.79,1,0.4378,1,41,Medium churn risk,Service recovery call,5349.39
+C002911,Affluent,North West,57,1,10,0.059,0,-0.325,4951.94,0.15,5,0,0.258,589.68,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C003189,Affluent,Wales,84,1,3,0.061,0,-0.421,2691.87,-0.061,3,0,0.126,211.9,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002538,Affluent,North West,44,1,10,0.275,0,-0.584,2496.8,-0.268,2,0,0.075,537.85,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,2496.8
+C002282,Young professional,Yorkshire,55,1,7,0.405,0,-0.242,2071.14,-0.032,0,0,0.083,249.03,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000082,Mass,South East,94,1,4,-0.006,0,-0.335,1731.51,-0.088,2,0,0.057,242.28,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,1731.51
+C001618,Mass,South East,30,1,11,-0.292,1,0.05,1592.92,0.068,2,1,0.232,204.15,0,0.4256,1,41,Medium churn risk,Service recovery call,1592.92
+C003249,Affluent,Yorkshire,100,1,7,-0.053,0,-0.375,1553.64,0.038,0,0,0.065,90.25,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000978,Affluent,Yorkshire,93,1,5,0.056,0,-0.316,1539.78,0.146,2,0,0.512,1115.11,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000446,Affluent,Yorkshire,115,1,9,0.166,0,-0.411,1531.0,-0.248,1,0,0.114,260.92,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001182,Mass,North West,51,1,5,-0.074,0,-0.223,1330.63,0.159,5,0,0.451,291.93,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001939,Young professional,North West,27,1,15,0.175,1,-0.155,1287.52,-0.328,5,1,0.106,284.26,1,0.4378,0,41,Medium churn risk,Service recovery call,0.0
+C001323,Mass,Scotland,75,1,14,-0.127,0,-0.398,1239.52,0.095,3,0,0.089,379.82,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000531,Young professional,Wales,85,1,7,0.034,0,-0.272,1185.56,0.219,1,0,0.087,220.96,1,0.4013,1,41,Medium churn risk,Salary switch or current account offer,1185.56
+C000364,Mass,London,118,1,9,0.329,0,-0.348,1179.04,-0.082,3,0,0.015,60.74,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000421,Young professional,South East,56,1,10,-0.108,0,-0.206,1125.23,0.173,2,0,0.323,344.05,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000055,Mass,Yorkshire,53,1,11,0.032,0,-0.21,1096.6,0.107,2,0,0.109,263.99,1,0.4013,1,41,Medium churn risk,Salary switch or current account offer,1096.6
+C002145,Mass,Scotland,61,1,14,-0.217,0,-0.365,1054.85,-0.136,2,0,0.044,260.31,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002788,Student,South East,19,1,24,-0.188,1,-0.08,1046.56,-0.356,4,1,0.399,242.83,1,0.4378,0,41,Medium churn risk,Service recovery call,0.0
+C001647,Mass,London,87,1,7,-0.205,0,-0.276,1005.6,-0.0,2,0,0.106,207.31,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002610,Mass,Wales,85,1,7,-0.031,0,-0.235,1004.41,0.098,3,0,0.092,197.73,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000377,Mass,South East,70,1,13,0.089,0,-0.203,981.87,0.29,1,0,0.118,652.67,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002687,Mass,South East,71,1,4,-0.063,0,-0.443,972.68,-0.029,0,0,0.086,297.57,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,972.68
+C001556,Mass,Wales,37,1,7,-0.234,0,-0.282,931.56,-0.3,3,0,0.171,143.32,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,931.56
+C003319,Mass,Wales,59,1,6,0.009,0,-0.428,919.39,0.196,3,0,0.038,92.96,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C003421,Young professional,South East,48,1,9,0.093,0,-0.388,894.43,0.332,1,0,0.19,110.55,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001111,Affluent,London,115,1,12,-0.175,0,-0.442,879.09,-0.006,2,0,0.035,1940.71,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000778,Affluent,Wales,90,1,15,0.034,0,-0.265,808.92,-0.062,1,0,0.371,463.81,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001947,SME owner,Scotland,90,1,8,0.032,0,-0.365,774.93,0.475,6,0,0.198,89.71,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001523,Mass,Yorkshire,104,1,10,0.386,0,-0.261,744.72,-0.096,1,0,0.132,239.32,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000052,Young professional,West Midlands,7,1,5,-0.545,1,0.098,736.71,-0.201,5,1,0.573,116.59,1,0.4256,1,41,Medium churn risk,Service recovery call,736.71
+C003258,Mass,Wales,103,1,10,-0.229,0,-0.206,703.44,0.103,11,0,0.341,217.31,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,703.44
+C000306,Mass,Scotland,37,1,8,-0.063,0,-0.214,703.21,-0.08,2,0,0.068,548.12,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001329,Mass,South East,79,1,4,0.213,0,-0.353,684.5,0.105,2,0,0.315,221.71,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002293,Affluent,Wales,114,1,2,-0.018,1,0.27,671.45,-0.467,6,0,0.215,301.26,0,0.4134,0,41,Medium churn risk,Product deepening offer,0.0
+C001364,Young professional,South East,64,1,16,0.178,0,-0.454,667.24,-0.235,0,0,0.276,568.47,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,667.24
+C000478,SME owner,London,50,1,13,0.006,0,-0.218,641.35,-0.001,2,0,0.133,638.21,1,0.4013,1,41,Medium churn risk,Salary switch or current account offer,641.35
+C000087,Mass,Wales,84,1,11,-0.172,0,-0.376,582.63,-0.011,1,0,0.197,164.99,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C003304,Young professional,South East,46,1,11,0.064,0,-0.252,527.19,-0.037,2,0,0.197,212.74,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C003446,SME owner,Wales,30,1,13,-0.181,1,-0.183,522.45,-0.356,4,1,0.268,139.43,0,0.4378,0,41,Medium churn risk,Service recovery call,0.0
+C001558,Student,Yorkshire,79,1,13,-0.221,0,-0.528,508.65,-0.1,3,0,0.221,170.31,1,0.4013,1,41,Medium churn risk,Salary switch or current account offer,508.65
+C000318,Mass,Scotland,116,1,12,-0.067,0,-0.412,507.46,-0.016,1,0,0.087,124.84,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000267,Mass,South East,119,1,8,-0.187,0,-0.237,490.16,0.056,3,0,0.167,100.1,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000719,Mass,North West,93,1,12,0.148,0,-0.238,488.27,-0.133,2,0,0.108,111.35,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C000795,SME owner,Wales,87,1,9,-0.107,0,-0.476,487.87,-0.142,2,0,0.054,203.43,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002500,Young professional,Yorkshire,66,1,14,-0.108,0,-0.241,463.87,0.02,2,0,0.437,174.77,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002159,Young professional,Yorkshire,63,1,9,0.277,0,-0.359,431.85,-0.2,1,0,0.252,157.78,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,431.85
+C001139,Mass,Scotland,86,1,10,-0.169,0,-0.323,423.14,-0.205,1,0,0.322,73.04,0,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C003332,Mass,South East,3,1,6,-0.26,1,0.305,402.09,0.142,4,1,0.049,164.24,0,0.4256,0,41,Medium churn risk,Service recovery call,0.0
+C002308,Mass,South East,106,1,9,-0.05,0,-0.328,356.24,-0.269,4,0,0.368,1245.8,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,356.24
+C002305,Young professional,North West,72,1,9,0.076,0,-0.212,352.0,0.24,4,0,0.094,734.31,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,352.0
+C000476,Mass,Wales,84,1,11,-0.09,0,-0.491,335.61,0.37,1,0,0.082,1597.8,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,335.61
+C001783,Mass,South East,90,1,10,0.038,0,-0.439,304.56,-0.139,1,0,0.139,536.63,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,304.56
+C000298,Student,North West,82,1,13,-0.146,0,-0.227,252.57,-0.015,3,0,0.113,395.18,1,0.4013,1,41,Medium churn risk,Salary switch or current account offer,252.57
+C002372,Mass,North West,48,1,6,-0.023,0,-0.34,236.62,0.46,4,0,0.225,121.94,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001190,Mass,West Midlands,107,1,12,-0.108,0,-0.296,227.23,0.034,2,0,0.016,93.37,0,0.4013,1,41,Medium churn risk,Salary switch or current account offer,227.23
+C003179,Mass,Yorkshire,101,1,9,-0.173,0,-0.282,221.21,-0.156,2,0,0.022,449.35,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C002849,Young professional,West Midlands,37,1,10,-0.13,0,-0.257,140.19,-0.122,0,0,0.088,93.27,1,0.4013,0,41,Medium churn risk,Salary switch or current account offer,0.0
+C001718,Affluent,Wales,49,2,8,-0.365,0,-0.216,6489.28,-0.079,1,0,0.587,118.61,1,0.4134,1,40,Medium churn risk,Salary switch or current account offer,6489.28
+C002746,Affluent,London,69,2,9,0.305,0,-0.397,2061.98,-0.453,0,0,0.166,330.72,0,0.4256,1,40,Medium churn risk,Salary switch or current account offer,2061.98
+C001183,Mass,Wales,89,2,9,-0.097,0,-0.426,2013.14,-0.432,3,0,0.151,249.0,1,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001839,Young professional,London,83,3,12,-0.206,0,-0.259,1809.04,-0.49,0,0,0.164,294.46,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002707,Mass,Scotland,47,2,9,-0.015,0,-0.329,1711.28,-0.417,0,0,0.13,208.75,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001387,Student,South East,100,2,12,-0.385,0,-0.332,1583.49,-0.247,1,0,0.427,180.85,0,0.4134,1,40,Medium churn risk,Salary switch or current account offer,1583.49
+C001910,Affluent,South East,120,2,7,-0.483,0,-0.294,1542.39,-0.08,2,0,0.213,952.91,0,0.4134,1,40,Medium churn risk,Salary switch or current account offer,1542.39
+C002207,Young professional,Scotland,51,3,8,-0.146,0,-0.501,1439.43,-0.361,2,0,0.21,291.16,1,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C000813,Mass,North West,53,3,11,-0.156,0,-0.242,1402.8,-0.328,0,0,0.014,233.6,1,0.4256,1,40,Medium churn risk,Salary switch or current account offer,1402.8
+C002890,Young professional,London,101,2,8,-0.268,0,-0.221,1397.19,0.114,0,0,0.102,250.8,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001542,Mass,Wales,38,3,9,-0.399,0,-0.323,1343.19,0.1,4,0,0.198,82.74,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002975,Affluent,Yorkshire,81,2,5,-0.658,0,-0.405,1222.68,-0.198,2,0,0.179,376.19,1,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002931,Affluent,Yorkshire,107,3,4,-0.323,0,-0.213,1182.3,-0.077,1,0,0.194,81.4,0,0.4134,1,40,Medium churn risk,Salary switch or current account offer,1182.3
+C003391,Mass,Wales,116,3,15,-0.286,0,-0.298,1092.92,-0.102,3,0,0.529,126.75,1,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001616,Student,Yorkshire,90,2,9,-0.34,0,-0.408,956.12,-0.076,4,0,0.473,339.14,1,0.4134,1,40,Medium churn risk,Salary switch or current account offer,956.12
+C000317,Affluent,Wales,89,2,12,0.637,0,-0.324,875.13,-0.514,0,0,0.206,280.43,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C000216,Mass,Scotland,101,3,10,0.11,0,-0.205,873.03,-0.372,1,0,0.286,239.01,1,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002439,Mass,Wales,53,2,7,-0.292,0,-0.322,857.49,-0.198,3,0,0.293,1366.1,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001347,Mass,Yorkshire,114,2,11,-0.187,0,-0.259,807.14,-0.339,1,0,0.131,149.36,0,0.4256,1,40,Medium churn risk,Salary switch or current account offer,807.14
+C001599,Student,South East,91,3,12,-0.042,0,-0.28,745.01,-0.347,2,0,0.371,66.36,1,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001765,Young professional,North West,108,2,4,-0.077,0,-0.369,715.51,-0.499,5,0,0.093,228.55,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002742,Mass,Scotland,49,2,10,-0.169,0,-0.576,671.99,-0.431,2,0,0.211,816.9,1,0.4256,1,40,Medium churn risk,Salary switch or current account offer,671.99
+C001871,Mass,Scotland,86,2,12,-0.213,0,-0.267,622.56,-0.343,3,0,0.421,247.58,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C000151,Mass,Yorkshire,97,3,8,-0.318,0,-0.503,593.46,0.083,0,0,0.265,774.2,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001310,Mass,Wales,37,2,11,-0.26,0,-0.419,593.08,-0.204,4,0,0.081,78.55,1,0.4134,1,40,Medium churn risk,Salary switch or current account offer,593.08
+C000492,Mass,Scotland,45,2,8,-0.364,0,-0.402,584.2,-0.146,2,0,0.366,729.83,1,0.4134,1,40,Medium churn risk,Salary switch or current account offer,584.2
+C003147,Affluent,North West,110,3,7,-0.197,0,-0.234,550.68,-0.413,1,0,0.074,410.45,1,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C003212,Student,West Midlands,18,2,15,0.095,1,-0.374,507.44,0.146,8,2,0.134,81.69,0,0.4875,0,40,Medium churn risk,Service recovery call,0.0
+C000907,Mass,Yorkshire,101,3,7,-0.496,0,-0.313,492.23,0.253,1,0,0.294,1560.59,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001816,Young professional,South East,59,3,9,0.06,0,-0.211,478.38,-0.304,0,0,0.387,76.16,1,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001158,Young professional,London,8,2,15,-0.127,0,-0.032,471.77,0.011,2,2,0.156,34.29,0,0.4626,0,40,Medium churn risk,Service recovery call,0.0
+C002947,Affluent,Scotland,22,2,9,-0.458,1,0.013,429.42,-0.539,3,1,0.447,105.5,0,0.4502,1,40,Medium churn risk,Service recovery call,429.42
+C000469,Student,South East,68,2,13,-0.278,0,-0.352,422.55,-0.251,2,0,0.111,129.21,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001744,Young professional,North West,88,2,10,-0.703,0,-0.231,421.05,0.418,2,0,0.247,595.94,1,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002713,Young professional,West Midlands,26,2,5,-0.285,1,0.253,409.66,-0.4,3,1,0.132,474.36,0,0.4502,0,40,Medium churn risk,Service recovery call,0.0
+C000238,Mass,Scotland,87,3,12,-0.082,0,-0.534,403.81,-0.428,1,0,0.085,69.69,1,0.4256,1,40,Medium churn risk,Salary switch or current account offer,403.81
+C000878,Mass,West Midlands,77,2,11,-0.42,0,-0.313,373.6,-0.281,0,0,0.123,822.87,1,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001737,Mass,Wales,54,2,11,-0.2,0,-0.351,275.05,-0.593,1,0,0.209,389.16,0,0.4256,1,40,Medium churn risk,Salary switch or current account offer,275.05
+C002061,Mass,Scotland,80,3,8,0.242,0,-0.348,241.87,-0.505,2,0,0.128,979.22,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C002466,Mass,North West,120,2,11,-0.065,0,-0.263,213.32,-0.462,4,0,0.069,199.08,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C000900,Young professional,South East,84,3,13,0.504,0,-0.359,181.46,-0.401,0,0,0.046,214.54,0,0.4256,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C001909,Young professional,West Midlands,85,2,10,-0.422,0,-0.343,148.87,0.203,2,0,0.12,82.6,0,0.4134,0,40,Medium churn risk,Salary switch or current account offer,0.0
+C003440,Mass,Wales,74,3,6,-0.403,0,-0.414,126.81,0.18,2,0,0.184,431.2,1,0.4134,1,40,Medium churn risk,Salary switch or current account offer,126.81
+C000416,Mass,South East,107,1,16,0.125,1,-0.301,4789.07,-0.381,9,0,0.453,598.72,1,0.4013,0,39,Medium churn risk,Salary switch or current account offer,0.0
+C000454,Affluent,Scotland,110,1,9,-0.33,0,0.016,4001.55,0.438,2,0,0.075,147.49,0,0.3659,0,39,Medium churn risk,Salary switch or current account offer,0.0
+C001474,Mass,South East,50,1,15,-0.388,0,0.069,2710.52,0.324,3,0,0.013,333.79,0,0.3659,0,39,Medium churn risk,Salary switch or current account offer,0.0
+C000728,Affluent,Wales,104,1,15,-0.062,1,-0.313,2108.26,-0.444,9,0,0.04,368.25,0,0.4013,1,39,Medium churn risk,Salary switch or current account offer,2108.26
+C001486,Affluent,Scotland,98,1,4,-0.228,1,-0.391,1811.98,-0.306,1,0,0.202,53.69,0,0.4013,1,39,Medium churn risk,Salary switch or current account offer,1811.98
+C001245,Student,Wales,39,1,10,-0.452,1,-0.23,1810.61,-0.048,9,0,0.506,176.94,0,0.3894,0,39,Medium churn risk,Salary switch or current account offer,0.0

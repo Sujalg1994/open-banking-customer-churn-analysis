@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="500" viewBox="0 0 940 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="42" font-family="Arial" font-size="24" font-weight="700" fill="#172033">Churn Rate by Recommended Retention Action</text>
+<text x="32" y="100" font-family="Arial" font-size="15" fill="#172033">Service recovery call</text>
+<rect x="245" y="72" width="610" height="42" rx="4" fill="#0f766e"/>
+<text x="867" y="100" font-family="Arial" font-size="15" fill="#172033">27.6%</text>
+<text x="32" y="160" font-family="Arial" font-size="15" fill="#172033">Salary switch or current account offer</text>
+<rect x="245" y="132" width="556" height="42" rx="4" fill="#0f766e"/>
+<text x="813" y="160" font-family="Arial" font-size="15" fill="#172033">25.2%</text>
+<text x="32" y="220" font-family="Arial" font-size="15" fill="#172033">Product deepening offer</text>
+<rect x="245" y="192" width="427" height="42" rx="4" fill="#0f766e"/>
+<text x="684" y="220" font-family="Arial" font-size="15" fill="#172033">19.4%</text>
+<text x="32" y="280" font-family="Arial" font-size="15" fill="#172033">Digital engagement campaign</text>
+<rect x="245" y="252" width="385" height="42" rx="4" fill="#0f766e"/>
+<text x="642" y="280" font-family="Arial" font-size="15" fill="#172033">17.5%</text>
+<text x="32" y="340" font-family="Arial" font-size="15" fill="#172033">Monitor</text>
+<rect x="245" y="312" width="200" height="42" rx="4" fill="#0f766e"/>
+<text x="457" y="340" font-family="Arial" font-size="15" fill="#172033">9.1%</text>
+<text x="32" y="400" font-family="Arial" font-size="15" fill="#172033">Financial wellbeing support</text>
+<rect x="245" y="372" width="0" height="42" rx="4" fill="#0f766e"/>
+<text x="257" y="400" font-family="Arial" font-size="15" fill="#172033">0.0%</text>
+</svg>
